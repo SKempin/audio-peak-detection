@@ -17,4 +17,4 @@ $ python peaks-detection.py
 
 ## Utils
 
-Utils contains useful additional scripts that utilise [Pydub](http://pydub.com/) , [Scipy](https://www.scipy.org/) and [Matplotlib](https://matplotlib.org/) for WAV to MP3 conversion and graph plotting.
+Utils contains useful additional scripts that utilise [Pydub](http://pydub.com/), [Scipy](https://www.scipy.org/) and [Matplotlib](https://matplotlib.org/) for WAV to MP3 conversion and graph plotting.
