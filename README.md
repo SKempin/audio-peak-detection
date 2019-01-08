@@ -1,6 +1,6 @@
 # Audio signal peaks to list / CSV
 
-A Python script utilising [Librosa](https://github.com/librosa) to log the timing (in milliseconds) of audio peaks in an MP3 file.
+A Python script utilising [Librosa](https://librosa.github.io/) to log the timing (in milliseconds) of audio peaks in an MP3 file.
 
 This was originally intended to detect peaks in an audio signal that is not is constant time, and therefore doesn't have a consistant BPM.
 
